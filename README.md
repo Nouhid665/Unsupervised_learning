@@ -1,32 +1,29 @@
-This repo contains beginner-friendly implementations and demos of core unsupervised learning algorithms using scikit-learn.
+📌 This repo contains beginner-friendly implementations and demos of core unsupervised learning algorithms using scikit-learn.
 
 The goal is to make it simple for students and beginners to:
+✅ Understand how different clustering & dimensionality reduction algorithms work
+✅ See clear examples with code + visualizations
+✅ Quickly experiment on synthetic datasets and learn by doing
 
-Understand how different clustering and dimensionality reduction algorithms work.
+🔍 Algorithms Covered
 
-See clear examples with code + visualizations.
+🔸 K-Means Clustering
 
-Quickly experiment on synthetic datasets.
+🔸 Gaussian Mixture Models (GMM)
 
-Algorithms Covered
+🔸 DBSCAN
 
-K-Means Clustering
+🔸 Principal Component Analysis (PCA)
 
-Gaussian Mixture Models (GMM)
+🔜 More coming soon...
 
-DBSCAN
+⚙️ Getting Started
+📦 Requirements
 
-Principal Component Analysis (PCA)
+🐍 Python 3.9+
 
-(more coming soon)
+📊 scikit-learn
 
-Getting Started
-Requirements
+🔢 numpy
 
-Python 3.9+
-
-scikit-learn
-
-numpy
-
-matplotlib / seaborn (for plots)
+🎨 matplotlib / seaborn (for plots)
